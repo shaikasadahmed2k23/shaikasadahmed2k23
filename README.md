@@ -263,16 +263,6 @@ class AsadAhmed:
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| 🎓 B.Tech CSE (Artificial Intelligence) | GPCET, Kurnool | 2022–2026 | **GPA: 8.5/10** |
-| 📚 Intermediate | Narayana Jr College | — | **91%** |
-| 🏫 10th Standard | Sri Srija E.M High School | — | **GPA: 9.8/10** |
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Open%20to%20AI%20Engineering%20%7C%20Agentic%20Systems%20%7C%20Backend%20Roles&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
