@@ -31,7 +31,7 @@ class AsadAhmed:
     role        = ["AI Engineer", "Agent Architect", "LLM Systems Builder", "Backend Developer"]
     location    = "Kurnool, Andhra Pradesh, India 🇮🇳"
     education   = "B.Tech CSE (AI) · GPCET · GPA: 8.5/10 · 2022–2026"
-    currently   = "Interning @ HandiCrafts · Building AI Healthcare Chatbot"
+    currently   = "Interning @ HandiCrafts · Building AI Healthcare Chatbot · Built DevCrew (6-Agent Project Builder)"
 
     def what_i_do(self):
         return [
@@ -91,7 +91,23 @@ class AsadAhmed:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:4F46E5&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
+### 🤖 [`DevCrew`](https://github.com/shaikasadahmed2k23) — AI-Powered Multi-Agent Project Builder
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-1F2937?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLaMA_3.1--8B-F54E27?style=flat-square&logoColor=white)
+
+> Describe any project idea in plain English — a 6-agent AI crew analyzes, plans, codes, tests, and delivers a ready-to-run ZIP file. Built in a weekend. Zero cost to run.
+
+▸ **6-agent pipeline:** Goal Analyst → Tech Advisor → Planner → Coder → Tester → QA — fully sequential and autonomous
+▸ Tech Advisor **honestly recommends against** its own stack (CrewAI) when simpler tools fit better
+▸ Generates complete projects across **CrewAI, LangChain, Vanilla Python, Node.js** stacks with correct imports
+▸ Solved Groq **rate limit battles** (6,000 TPM) across 6 agents via per-agent crew isolation + timed delays
+▸ Delivers **ZIP with all code + README + .env.example** — zero setup friction for the user
+
+---
 <br/>
 
 ### 🐾 [`Dr. Paws`](https://github.com/shaikasadahmed2k23) — Real-Time AI Veterinary Voice Agent
