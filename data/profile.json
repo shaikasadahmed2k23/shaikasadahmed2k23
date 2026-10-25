@@ -1,0 +1,247 @@
+{
+  "username": "shaikasadahmed2k23",
+  "name": "Shaik Asad Ahmed",
+  "role": "AI Engineer",
+  "tagline": "agentic systems · LLM orchestration · backend",
+  "location": "Kurnool, IN",
+  "now": "AI Developer Intern @ Techvruk",
+  "agents": [
+    [
+      "planner",
+      "LangGraph · Google ADK · CrewAI"
+    ],
+    [
+      "router",
+      "Groq · Gemini · Claude · Llama"
+    ],
+    [
+      "executor",
+      "FastAPI · Next.js · PostgreSQL · Redis"
+    ],
+    [
+      "critic",
+      "pytest · evals · citation checks"
+    ],
+    [
+      "deployer",
+      "Docker · Vercel · Render · GCP"
+    ]
+  ],
+  "trace": {
+    "start": "2024-04",
+    "end": "2026-11",
+    "spans": [
+      {
+        "name": "Python Developer Intern",
+        "org": "IIITDM Kurnool",
+        "from": "2024-05",
+        "to": "2024-08",
+        "kind": "work"
+      },
+      {
+        "name": "AI Application Developer Intern",
+        "org": "HacknCrafts",
+        "from": "2025-09",
+        "to": "2026-02",
+        "kind": "work"
+      },
+      {
+        "name": "Agent & Automation Developer",
+        "org": "Gravity AI",
+        "from": "2026-07",
+        "to": "2026-08",
+        "kind": "work"
+      },
+      {
+        "name": "Machine Learning Trainee",
+        "org": "Amazon ML Summer School",
+        "from": "2026-07",
+        "to": "2026-08",
+        "kind": "learn"
+      },
+      {
+        "name": "AI Trainer",
+        "org": "Handshake AI",
+        "from": "2026-07",
+        "to": "now",
+        "kind": "work"
+      },
+      {
+        "name": "AI Developer Intern",
+        "org": "Techvruk",
+        "from": "2026-10",
+        "to": "now",
+        "kind": "work"
+      }
+    ],
+    "events": [
+      {
+        "at": "2025-06",
+        "label": "Unisys pre-finalist"
+      },
+      {
+        "at": "2026-07",
+        "label": "PromptWars #6/683"
+      },
+      {
+        "at": "2026-08",
+        "label": "Black-Box 4th"
+      },
+      {
+        "at": "2026-09",
+        "label": "Amazon MLC top 1.5%"
+      },
+      {
+        "at": "2026-10",
+        "label": "Techvruk Rank #2"
+      }
+    ],
+    "compress": [
+      [
+        "2024-09",
+        "2025-08",
+        0.3
+      ]
+    ]
+  },
+  "projects": [
+    {
+      "slug": "research-agent",
+      "title": "Self-Improving Research Agent",
+      "badge": "RANK #2 · TECHVRUK",
+      "line": "Plans, searches, cites, self-critiques, and stores lessons for the next run.",
+      "metrics": [
+        [
+          "-52%",
+          "tokens"
+        ],
+        [
+          "1→0",
+          "revisions"
+        ],
+        [
+          "81",
+          "tests"
+        ]
+      ],
+      "stack": "LangGraph · Groq · Gemini · SQLite",
+      "accent": "#3fb950",
+      "url": "https://github.com/shaikasadahmed2k23/self-improving-research-agent_Submission"
+    },
+    {
+      "slug": "mergeguard",
+      "title": "MergeGuard",
+      "badge": "AUTONOMOUS PR REVIEW",
+      "line": "5 parallel ADK agents score every PR. High blast radius always goes to a human.",
+      "metrics": [
+        [
+          "5",
+          "agents"
+        ],
+        [
+          "76%",
+          "coverage"
+        ],
+        [
+          "42",
+          "tests"
+        ]
+      ],
+      "stack": "Google ADK · Gemini 2.5 · FastAPI · Postgres",
+      "accent": "#58a6ff",
+      "url": "https://github.com/shaikasadahmed2k23/MergeGuard"
+    },
+    {
+      "slug": "agentrouter",
+      "title": "AgentRouter",
+      "badge": "4TH NATIONALLY · BLACK-BOX",
+      "line": "Scores task complexity 1–10 and routes it to the cheapest model that can do it.",
+      "metrics": [
+        [
+          "-98.6%",
+          "cost"
+        ],
+        [
+          "300ms",
+          "latency"
+        ],
+        [
+          "<50ms",
+          "cache"
+        ]
+      ],
+      "stack": "Next.js · FastAPI · Redis · Llama 3",
+      "accent": "#d29922",
+      "url": "https://github.com/shaikasadahmed2k23/agentrouter"
+    },
+    {
+      "slug": "amazon-mlc",
+      "title": "Amazon ML Challenge 2026",
+      "badge": "TOP 1.5% · 1,233 / 86,000+",
+      "line": "Entity resolution over 11.7M records. 6.72T pairs blocked to 7.73M at 99% recall.",
+      "metrics": [
+        [
+          "11.7M",
+          "records"
+        ],
+        [
+          "0.978",
+          "public LB"
+        ],
+        [
+          "99%",
+          "recall"
+        ]
+      ],
+      "stack": "LightGBM · MiniLM cross-encoders · PyTorch",
+      "accent": "#bc8cff",
+      "url": "https://github.com/shaikasadahmed2k23/amazon-ml-challenge-2026"
+    },
+    {
+      "slug": "rationseva",
+      "title": "RationSeva",
+      "badge": "HACKTOBER HACKDAYS 2026",
+      "line": "Ration-shop transparency on real AP public data, with photo proof and OCR checks.",
+      "metrics": [
+        [
+          "480",
+          "shops"
+        ],
+        [
+          "15,360",
+          "rows"
+        ],
+        [
+          "0",
+          "mismatches"
+        ]
+      ],
+      "stack": "FastAPI · React · Cloudinary · OCR",
+      "accent": "#f78166",
+      "url": "https://github.com/shaikasadahmed2k23/ration-seva-"
+    },
+    {
+      "slug": "dr-paws",
+      "title": "Dr. Paws",
+      "badge": "REAL-TIME VOICE AGENT",
+      "line": "Veterinary triage over WebRTC. Switches emergency/booking mode mid-call.",
+      "metrics": [
+        [
+          "<2s",
+          "voice latency"
+        ],
+        [
+          "6",
+          "scenarios"
+        ],
+        [
+          "MCP",
+          "Alexa+"
+        ]
+      ],
+      "stack": "LiveKit · Groq · ElevenLabs · Supabase",
+      "accent": "#39c5cf",
+      "url": "https://github.com/shaikasadahmed2k23"
+    }
+  ]
+}
